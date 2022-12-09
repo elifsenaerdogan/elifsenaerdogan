@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 <a href="[https://www.linkedin.com/in/elifsenaerdogan/]" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
 
-
-
 <a href="mailto:elifsenaerdogan18@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 
