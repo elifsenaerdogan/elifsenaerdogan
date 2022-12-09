@@ -91,6 +91,6 @@ Here are some ideas to get you started:
   </a>
   </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalayciburak&theme=nord)](https://github.com/elifsenaerdogan)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elifsenaerdogan&theme=nord)](https://github.com/elifsenaerdogan)
 </div>
 
