@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=elifsenaerdogan.visitor-badge)](https://gitHub.com/elifsenaerdogan) 
 <hr>
 
-<img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.dk%2Fpin%2F433471532877794815%2F&psig=AOvVaw18a1iePLG-o9uITP3iBISf&ust=1670694328521000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi50rmL7fsCFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif">
 
 
 
@@ -36,24 +36,6 @@ Here are some ideas to get you started:
 
 <a href="mailto:elifsenaerdogan18@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
-
-
-  
-
-<!--
-<img src="https://img.shields.io/badge/Python-0b8056??style=flat-square&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Ionic-5291FF??style=flat-square&logo=ionic&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Flutter-015496??style=flat-square&logo=flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Dart-183B55??style=flat-square&logo=dart&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.Net-6B18E7??style=flat-square&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/PHP-8892BF??style=flat-square&logo=php&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
--->
 
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/61664693/116169127-b307a180-a70c-11eb-9097-06d1f280065e.png" width="40px"></img></a>
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="40px"></img></a>
