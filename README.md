@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/elifsenaerdogan?style=flat&logo=github)](https://github.com/elifsenaerdogan?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/elifsenaerdogan?style=flat&logo=github&)](https://github.com/elifsenaerdogan?tab=repositories)
-<!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=elifsenaerdogan.visitor-badge)](https://gitHub.com/elifsenaerdogan) -->
-
-<!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=elifsenaerdogan.visitor-badge)](https://gitHub.com/elifsenaerdogan) 
 <hr>
+
+
 
 
 [//]: # (## ⬇️ Contact me via these platforms!)
