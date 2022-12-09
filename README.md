@@ -23,17 +23,18 @@ Here are some ideas to get you started:
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=elifsenaerdogan.visitor-badge)](https://gitHub.com/elifsenaerdogan) 
 <hr>
 
+<img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.dk%2Fpin%2F433471532877794815%2F&psig=AOvVaw18a1iePLG-o9uITP3iBISf&ust=1670694328521000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi50rmL7fsCFQAAAAAdAAAAABAE">
 
 
 
-[//]: # (## ⬇️ Contact me via these platforms!)
+ ⬇️ Contact me via these platforms!
 
 
-[//]: # (<a href="[https://www.linkedin.com/in/elifsenaerdogan/]" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
+<a href="[https://www.linkedin.com/in/elifsenaerdogan/]" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
 
 
 
-[//]: # (<a href="mailto:elifsenaerdogan18@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>)
+<a href="mailto:elifsenaerdogan18@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 
 
