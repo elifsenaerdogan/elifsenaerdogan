@@ -82,14 +82,12 @@ Here are some ideas to get you started:
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elifsenaerdoganbyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/elifsenaerdogan)
 
 
-  <!-- <p>
   <a href="https://github.com/elifsenaerdogan?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifsenaerdogan&layout=compact&show_icons=true&theme=nord">
   </a>
-  </p> -->
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elifsenaerdogan&theme=nord)](https://github.com/elifsenaerdogan)
 </div>
