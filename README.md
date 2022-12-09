@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [//]: # (## ⬇️ Contact me via these platforms!)
 
 
-[//]: # (<a href="[https://www.linkedin.com/in/elifsenaerdogan/)" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
+[//]: # (<a href="[https://www.linkedin.com/in/elifsenaerdogan/]" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
 
 
 
